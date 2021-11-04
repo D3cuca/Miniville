@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\CNAM\JDLV\True\JeuDeLaVie\bin\Debug\JeuDeLaVie.exe.config
+C:\Users\Usuario\Desktop\CNAM\JDLV\True\JeuDeLaVie\bin\Debug\JeuDeLaVie.exe
+C:\Users\Usuario\Desktop\CNAM\JDLV\True\JeuDeLaVie\bin\Debug\JeuDeLaVie.pdb
+C:\Users\Usuario\Desktop\CNAM\JDLV\True\JeuDeLaVie\obj\Debug\JeuDeLaVie.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\CNAM\JDLV\True\JeuDeLaVie\obj\Debug\JeuDeLaVie.Form1.resources
+C:\Users\Usuario\Desktop\CNAM\JDLV\True\JeuDeLaVie\obj\Debug\JeuDeLaVie.Properties.Resources.resources
+C:\Users\Usuario\Desktop\CNAM\JDLV\True\JeuDeLaVie\obj\Debug\JeuDeLaVie.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\CNAM\JDLV\True\JeuDeLaVie\obj\Debug\JeuDeLaVie.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\CNAM\JDLV\True\JeuDeLaVie\obj\Debug\JeuDeLaVie.exe
+C:\Users\Usuario\Desktop\CNAM\JDLV\True\JeuDeLaVie\obj\Debug\JeuDeLaVie.pdb
